@@ -1,0 +1,7 @@
+{
+  "name": "com.agungs17.harvestory-shared",
+  "version": "1.0.0",
+  "displayName": "Harvestory Shared Assets",
+  "description": "Shared raw art assets and templates for Harvestory",
+  "unity": "6000.0"
+}
